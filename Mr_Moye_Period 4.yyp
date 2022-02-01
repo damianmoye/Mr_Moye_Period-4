@@ -3,6 +3,7 @@
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":3,},
     {"id":{"name":"oCoin","path":"objects/oCoin/oCoin.yy",},"order":3,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":4,},
+    {"id":{"name":"sNew","path":"sprites/sNew/sNew.yy",},"order":7,},
     {"id":{"name":"oProjectile","path":"objects/oProjectile/oProjectile.yy",},"order":5,},
     {"id":{"name":"sTurret","path":"sprites/sTurret/sTurret.yy",},"order":4,},
     {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},"order":9,},
